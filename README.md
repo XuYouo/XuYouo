@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=y-shi23&show_icons=true&hide_border=true">
 
-- 📫 How to reach me: y-shi23tsinghua@outlook.com
+- 📫 How to reach me: <y-shi23tsinghua@outlook.com>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-shi23&layout=compact)
 
