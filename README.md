@@ -10,7 +10,7 @@
 
 ## 🧐 About
 
-- 📫 How to reach me: yalisky@outlook.com
+- 📫 How to reach me: y-shi23tsinghua@outlook.com
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafqla&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-shi23&layout=compact)
 
