@@ -9,3 +9,5 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-shi23&layout=compact)
 
+
+some of my code can also be found on https://cnb.cool/u/0cean
