@@ -7,10 +7,9 @@
 - some of my code can also be found on https://cnb.cool/u/0cean
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-shi23&layout=compact)
 
 <img src="https://github-readme-stats.vercel.app/api?username=y-shi23&show_icons=true&hide_border=true">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-shi23&layout=compact)
 
 
 
