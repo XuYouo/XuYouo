@@ -33,7 +33,7 @@
 
 <br/>
 
-- 🎓 Electronic Information Major
+- 🎓 Electronic Engineering
 - 👍 JavaScript & TypeScript
 - 🎯 Self-taught front end Web technology
 - 💖 *Infinite Progress*
