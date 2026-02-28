@@ -1,10 +1,10 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=y-shi23)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=XuYouo)
 
 
 
 - 📫 How to reach me: <y-shi23tsinghua@outlook.com>
-- some of my code can also be found on https://cnb.cool/u/0cean
+- some of my code repos can also be found on https://cnb.cool/u/0cean
 
 
 <br/>
@@ -34,8 +34,8 @@
 <br/>
 
 - 🎓 Electronic Engineering
-- 👍 JavaScript & TypeScript
-- 🎯 Self-taught front end Web technology
+- 👍 FrontEnd & Android
+- 🎯 AI Agent
 - 💖 *Infinite Progress*
 
 
