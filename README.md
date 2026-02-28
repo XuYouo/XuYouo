@@ -3,8 +3,8 @@
 
 
 
-- 📫 How to reach me: <y-shi23tsinghua@outlook.com>
-- some of my code repos can also be found on https://cnb.cool/u/0cean
+- Reach me: <y-shi23tsinghua@outlook.com>
+- Some of my code repos can also be found on https://cnb.cool/u/0cean
 
 
 <br/>
